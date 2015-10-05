@@ -27,7 +27,9 @@ void firstName (string name)
 {
     char firstLetter;
     char lastLetter;
-    string firstPart [144]= {"Bramble", "Leaf", "Squirrel", "Dust", "Sand", "Bracken", "Sorrel", "Thorn", "Bright", "Spider", "Birch", "Hazel", "Mouse", "Cinder", "Honey", "Poppy", "Lion", "Holly", "Fox", "Ice", "Fern", "White", "Long", "Black", "Russet", "Little", "Oak", "Rowan", "Smoke", "Ivy", "Tear", "Toad", "Owl", "Dawn",
+    string firstPart [144]= {"Bramble", "Leaf", "Squirrel", "Dust", "Sand", "Bracken", "Sorrel", "Thorn", "Bright", 
+    "Spider", "Birch", "Hazel", "Mouse", "Cinder", "Honey", "Poppy", "Lion", "Holly", "Fox", "Ice", "Fern", "White", "Long", 
+    "Black", "Russet", "Little", "Oak", "Rowan", "Smoke", "Ivy", "Tear", "Toad", "Owl", "Dawn",
     "Crow", "Olive", "Kink", "Rat", "Shrew", "Snake", "Scorch", "Red", "Tawny", "Snow", "Cedar", "Tall", "One",
      "Ash", "Bark", "Torn", "Kestrel", "Night", "Gorse", "Hare", "Dew", "Thistle", "Sedge",  "Willow", "Tear",
     "Swallow", "Tear", "Ant", "Ember", "Sun","Heather","Breeze","Morning","Web",
