@@ -1,6 +1,6 @@
 # Background
 For anyone that hasn't read Warriors by Erin Hunter. Warriors is about a group of cats that live in the wild. You can look up the series at warriorcats.com if you interested in the series.
-#Motovation
+#Motivation
 At one point of time there was a conduct your name with StarClan on their web page. What you would do is input your name and hometown and it will give you a warrior name. After they took it off, I decided to make my own program to make warrior names.
 #Instructions
 WarriorNameCode can be copy to a code blocks and then run it.
