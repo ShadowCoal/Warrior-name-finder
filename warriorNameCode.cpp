@@ -63,7 +63,7 @@ void lastName (string name)
 {
     char firstLetter;
     char lastLetter;
-    string lastPart [28] = {"Shine", "Whisker", "Tooth","Mist", "Claw", "Wing", "Tail", "Foot", "Cloud"
+    string lastPart [28] = {"Shine", "Whisker", "Tooth","Mist", "Claw", "Wing", "Tail", "Foot", "Cloud",
     "Fur", "Pelt", "Pool", "Flight", "Flower", "Talon", "Spring", "Belly",
      "Brook","Stripe", "Storm", "Frost","Feather","Light","Fang", "Leap", "Step", "Fall", "Snow"};
      string word;
